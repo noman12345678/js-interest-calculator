@@ -1,0 +1,69 @@
+@media only screen and (min-width: 200px) and (max-width:991px){
+
+    body {
+
+        background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnjBlS24az1XJOSojxIsHzzMriJTAxul__IQ&usqp=CAU);
+        background-repeat: no-repeat;
+        background-size: cover;
+    
+        
+    
+    }
+
+
+ #full-content{
+
+
+    height: auto;
+    width: 481px;
+ }   
+
+}
+
+
+
+
+
+@media only screen and (min-width:200px)and (max-width:480px){  
+
+    body {
+
+        background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnjBlS24az1XJOSojxIsHzzMriJTAxul__IQ&usqp=CAU);
+        background-repeat: no-repeat;
+        background-size: cover;
+        width:100%
+       
+        
+    
+    }
+
+
+    #full-content{
+
+       margin-top: 5px;
+      height: 632px;
+    width: auto;
+     } 
+  #first_input input {
+  
+    margin-left: 70px;
+
+  }
+  #third_input input {
+   
+    margin-left: 68px;
+}
+  #second_input input {
+ 
+    margin-left: 68px;
+}
+  #input_btn {
+   
+}
+  #rs_buttons {
+    display: inline-block;
+    margin-left:85px;
+}
+}
+    
+    
